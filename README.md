@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @thhvvv
+- 👀 I’m interested in backend development, cyber security, and open-source contributions.
+- 🌱 I’m currently learning JavaScript, Node.js, and Flask
